@@ -1,2 +1,7 @@
 # AstarothSpammerXLV9
-A modern Discord server spammer (new version XLV9). MADE FOR EDUCATIONAL PURPOSE ONLY. 
+
+- First Turn Off Your Windows Defender RealTime 
+
+- A Simple Discord Spammer 
+
+- Go To Bin > Debug > Run AstarothSpammer.exe and enjoy 
