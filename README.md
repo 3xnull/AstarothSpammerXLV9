@@ -1,5 +1,2 @@
-First Off Your Windows Defender Real Time
-
-And Go To The Bin>Debug>Run AstarothSpammer.exe 
-
-enjoy and its safe <3
+# AstarothSpammerXLV9
+A modern Discord server spammer (new version XLV9). MADE FOR EDUCATIONAL PURPOSE ONLY. 
